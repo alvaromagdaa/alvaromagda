@@ -17,7 +17,7 @@ He sido seleccionado para las Galicia Skills 2025.
 
 ![Álvaro en Skills.](../../assets/mipirola.jpeg)
 
-## We instinctively tie weight to value.
+## We instinc  tively tie weight to value.
 Gold is solid. Wood is dense. And back when we still printed things on paper, a heavy stapler was a luxury.
 
 If something is heavy, we assume it matters. And often, it does. Weight signals quality, durability, presence, permanence.
