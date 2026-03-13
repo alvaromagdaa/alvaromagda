@@ -17,18 +17,8 @@ He sido seleccionado para las Galicia Skills 2025.
 
 ![Álvaro en Skills.](../../assets/mipirola.jpeg)
 
-## We instinc  tively tie weight to value.
-Gold is solid. Wood is dense. And back when we still printed things on paper, a heavy stapler was a luxury.
-
-If something is heavy, we assume it matters. And often, it does. Weight signals quality, durability, presence, permanence.
-
-Even the objects we choose reflect this. At first, we buy cheap, lightweight furniture—easy to build, easy to trash. But eventually, <strong> we want weight. </strong> A solid oak table. A leather armchair. Something built to last. Heavy things comfort us—a weighted blanket stills the body, a heavy door makes a home feel secure.
-
-Winners of major awards almost always say the same thing as they lift the trophy: ‘Wow! It’s so heavy.’ As though the weight itself validates the achievement. Simple logic: Light achievements beget light awards. Heavy achievements beget heavy awards.
-
-We accept this in the physical world.
-
-But online, we forget.
+## El campeonato.
+Las <A href="https://www.edu.xunta.gal/fp/galiciaskills"><strong>Galicia Skills</strong></A> son un campeonato 
 
 ## The internet is (mostly) a machine for light things.
 <strong> The modern makers’ machine does not want you to create heavy things. </strong> It runs on the internet—powered by social media, fueled by mass appeal, and addicted to speed. It thrives on spikes, scrolls, and screenshots. It resists weight and avoids friction. It does not care for patience, deliberation, or anything but production.
