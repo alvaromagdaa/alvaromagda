@@ -25,4 +25,4 @@ Para la selección de los alumnos los centros escogen al mejor candidato y, a co
 En este caso, yo fuí el seleccionado del Ciclo Superior de Automoción del IES Vilalonga.
 
 ## Mi experiencia en el campeonato.
-M
+En mi rama y nivel éramos 9 participantes, los 9 mejores de galicia, y para buscar los 2 con mayor nivel realizamos 9 pruebas en las que, con una gran variedad, tuvimos que saber desenvolvernos en diagnosis avanzada, mecánica de motor y transmisiones, electricidad y electrónica, mecánica rápida y neumática. Disponíamos de hora y media para cada prueba y se realizaron todas en coches híbridos de la marca Toyota, ya que uno de los patrocinadores del sector de la Automoción era <A href="https://www.grupobreogan.com/"><strong>Grupo Breogán</strong></A>, el cual es concesionario oficial de esta marca entre otras en Galicia.
